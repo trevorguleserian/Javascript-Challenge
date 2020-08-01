@@ -1,7 +1,7 @@
 # JavaScript Challenge - JavaScript and DOM Manipulation
 
 ### Interact with the project here:
-https://trevorguleserian.github.io/Javascript-Challenge/.
+https://trevorguleserian.github.io/Javascript-Challenge/index.html
 
 ## Background
 
